@@ -7,7 +7,7 @@ Welcome to this exciting tutorial where we will build a beautiful and responsive
 💼 Connect with me on LinkedIn: https://www.linkedin.com/in/amanayak/ <br>
 📸 Follow me on Instagram: https://instagram.com/codinggujarat/<br>
 
-💙 Join the channel to see more videos like this. 
+💙 Join the channel to see more videos like this.<br> 
 https://www.youtube.com/@codingcg<br>
 https://www.youtube.com/@CodingGujarat<br>
 
