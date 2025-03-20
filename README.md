@@ -4,12 +4,12 @@ Welcome to this exciting tutorial where we will build a beautiful and responsive
 
 🔗 GitHub Source Code: [Your GitHub Repository Link]
 
-💼 Connect with me on LinkedIn: https://www.linkedin.com/in/amanayak/
-📸 Follow me on Instagram: https://instagram.com/codinggujarat/
+💼 Connect with me on LinkedIn: https://www.linkedin.com/in/amanayak/ <br>
+📸 Follow me on Instagram: https://instagram.com/codinggujarat/<br>
 
 💙 Join the channel to see more videos like this. 
-https://www.youtube.com/@codingcg
-https://www.youtube.com/@CodingGujarat
+https://www.youtube.com/@codingcg<br>
+https://www.youtube.com/@CodingGujarat<br>
 
 ⚠️ Copyright Notice
 This video, including its text, images, and content, is the exclusive property of CodingGujarat. Copying or reusing any part of this content without permission is strictly prohibited. Let's respect creativity and originality!
